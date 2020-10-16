@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Test test
 
 ![Photo](/upload/photo-1516906736502-5d3fedc3019a.jpeg "Title")
+
+![](/upload/logo.svg)
